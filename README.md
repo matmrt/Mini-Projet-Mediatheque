@@ -3,7 +3,7 @@
 Mini-projet réalisé dans le cadre du BTS CIEL IR (Durée : 6 heures).
 
 ## Étudiant
-* **Nom / Prénom** : [Ton Prénom NOM]
+* **Nom / Prénom** : Mathéo MARTHÉLY
 * **Classe** : BTS CIEL IR
 
 ---
