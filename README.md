@@ -3,12 +3,12 @@
 Mini-projet réalisé dans le cadre du BTS CIEL IR (Durée : 6 heures).
 
 ## Étudiant
-* **Étudiant 1** : Mathéo MARTHÉLY
-* **Classe** : BTS TCIEL IR
+* **Nom / Prénom** : [Ton Prénom NOM]
+* **Classe** : BTS CIEL IR
 
 ---
 
-## 🛠️ Stack Technique
+## Stack Technique
 * **Langage Serveur** : PHP 8.x (sans framework)
 * **SGBD** : MySQL / MariaDB via PDO (avec gestion des transactions)
 * **Environnement** : XAMPP (Apache / MySQL)
@@ -16,22 +16,22 @@ Mini-projet réalisé dans le cadre du BTS CIEL IR (Durée : 6 heures).
 
 ---
 
-## 🚀 Fonctionnalités Réalisées (Cahier des charges)
+## Fonctionnalités Réalisées (Cahier des charges)
 
 | Code | Intitulé | État |
 | :--- | :--- | :---: |
-| **F01** | Page d'accueil & Tableau de bord global | ✅ Complété |
-| **F02** | Catalogue complet des livres (titres, auteurs, disponibilités) | ✅ Complété |
-| **F03** | Formulaire de recherche de livres par titre | ✅ Complété |
-| **F04** | Consultation de la liste des adhérents | ✅ Complété |
-| **F05** | Enregistrement d'un nouvel emprunt (sélection dynamique) | ✅ Complété |
-| **F06** | Suivi des emprunts en cours | ✅ Complété |
-| **F07** | Détection et mise en évidence des retards de restitution | ✅ Complété |
-| **F08** | Enregistrement du retour d'un livre (mises à jour automatisées) | ✅ Complété |
+| **F01** | Page d'accueil & Tableau de bord global | Validé |
+| **F02** | Catalogue complet des livres (titres, auteurs, disponibilités) | Validé |
+| **F03** | Formulaire de recherche de livres par titre | Validé |
+| **F04** | Consultation de la liste des adhérents | Validé |
+| **F05** | Enregistrement d'un nouvel emprunt (sélection dynamique) | Validé |
+| **F06** | Suivi des emprunts en cours | Validé |
+| **F07** | Détection et mise en évidence des retards de restitution | Validé |
+| **F08** | Enregistrement du retour d'un livre (mises à jour automatisées) | Validé |
 
 ---
 
-## 💻 Instructions d'installation et de lancement
+## Instructions d'installation et de lancement
 
 1. **Lancement de l'environnement** :
    - Démarrer les modules **Apache** et **MySQL** dans XAMPP Control Panel.
@@ -50,9 +50,9 @@ Mini-projet réalisé dans le cadre du BTS CIEL IR (Durée : 6 heures).
 
 ---
 
-## 📁 Arborescence du Projet
+## Arborescence du Projet
 
-```c:/xampp/htdocs/
+```text
 mediatheque/
 ├── assets/
 │   └── style.css            # Styles généraux (Design Apple Store)
